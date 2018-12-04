@@ -1,0 +1,12 @@
+{
+  "name": "easyLeaflet",
+  "description": "leaflet upper",
+  "version": "0.0.1",
+  "author": "kongkongbuding",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kongkongbuding/easyLeaflet.git"
+  },
+  "main": "lib/index.js"
+}
